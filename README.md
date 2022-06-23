@@ -1,1 +1,5 @@
-main project에 redis 도입 전 test
+## 📕 Redis test
+
+
+main project에 redis 도입 전 연습. <br />
+최종 목표는 메인 프로젝트에 좋아요 처리, 유저 인증 토큰 저장, 최근 검색 목록 기능을 레디스를 적용시켜 전환하는 것. 
