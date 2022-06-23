@@ -1,0 +1,1 @@
+main project에 redis 도입 전 test
